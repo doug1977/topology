@@ -42,7 +42,7 @@ Resources:
           Name: John Cumalat
     Description: Renamed to UColorado_HEP by agopu after Doug agreed it was ok. 2008-07-18.
       Assigned appropriate site as well.
-    FQDN: heposg01.colorado.edu
+    FQDN: heposg01-colorado.sites.opensciencegrid.org
     ID: 177
     Services:
       CE:
